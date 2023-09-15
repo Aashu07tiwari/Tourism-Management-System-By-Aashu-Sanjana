@@ -9,11 +9,6 @@ This website also has the admin login admin can get the information of the custo
 There is cool and nice booking page where you can book your tour by entering your details.
 This website also has a feedback section where you can give your feedback to the developer.
 
-# New Changes
-
-improved performance
-login signup isssues fixed
-styling issues fixed
 
 # Use Procedure
 
